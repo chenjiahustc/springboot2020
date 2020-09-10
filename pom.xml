@@ -11,6 +11,9 @@
 
     <modules>
         <module>HelloWorld</module>
+        <module>spring-boot-config</module>
+        <module>spring-boot-auto-config</module>
+        <module>spring-boot-logging-demo</module>
     </modules>
 
     <properties>
